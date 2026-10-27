@@ -1,0 +1,21 @@
+english,zh_Hant_TW,zh_Hant_HK,yue_colloquial,zh_Hans,definition_zh_Hant,source
+staking,質押,質押,質押／Stake,质押,鎖定 ETH 以協助驗證以太坊並賺取獎勵,https://docs.rocketpool.net/en/liquid-staking/overview
+liquid staking,流動性質押,流動性質押,流動性質押,流动性质押,質押後取得可自由轉讓的代幣（如 rETH）,https://docs.rocketpool.net/en/liquid-staking/overview
+rETH,rETH,rETH,rETH,rETH,Rocket Pool 的流動性質押代幣，數量不變、兌換率上升,https://docs.rocketpool.net/en/protocol/glossary
+exchange rate (rETH:ETH),兌換率,兌換率,兌換率／匯率,兑换率,1 rETH 可換回的 ETH 數量,https://docs.rocketpool.net/en/liquid-staking/overview#the-reth-token
+validator,驗證者,驗證者,驗證者,验证者,在信標鏈上抵押 32 ETH 並執行驗證工作的實體,https://docs.rocketpool.net/en/protocol/glossary
+node operator,節點營運者,節點營運者,節點營運者／跑節點嘅人,节点运营者,運行 Rocket Pool 節點並提供保證金的人,https://docs.rocketpool.net/en/protocol/glossary
+bond (bonded ETH),保證金,保證金,保證金／押金,保证金,節點營運者自行提供的 ETH（megapool 為 4 ETH）,https://docs.rocketpool.net/en/liquid-staking/overview#how-rocket-pool-works
+borrowed ETH,借入的 ETH,借入嘅 ETH,借返嚟嘅 ETH,借入的 ETH,來自質押池、與保證金組成驗證者的 28 ETH,https://docs.rocketpool.net/en/liquid-staking/overview#how-rocket-pool-works
+deposit pool,質押池,質押池,質押池,存款池／质押池,存放待分配給節點的使用者 ETH,https://docs.rocketpool.net/en/protocol/glossary
+megapool,Megapool（巨型池）,Megapool（巨型池）,Megapool,Megapool,Saturn 升級後的驗證者合約結構,https://docs.rocketpool.net/en/liquid-staking/overview
+smart contract,智慧合約,智能合約,智能合約,智能合约,部署在區塊鏈上自動執行的程式,https://docs.rocketpool.net/en/protocol/glossary
+network,網路,網絡,網絡,网络,（區塊鏈）網絡；HK 與 TW 用字不同,—
+wallet,錢包,錢包,錢包／銀包,钱包,管理私鑰與資產的軟體（如 MetaMask）,—
+gas fee,Gas 費,Gas 費,Gas 費,Gas 费,在以太坊上執行交易所需支付的手續費,—
+slippage,滑價,滑價,滑價,滑点,成交價與預期價格之間的差距,https://docs.rocketpool.net/en/liquid-staking/via-rp
+liquidity,流動性,流動性,流動性,流动性,能否即時按合理價格換回 ETH,https://docs.rocketpool.net/en/liquid-staking/via-rp
+slashing,罰沒,罰沒,罰沒／Slash,罚没,驗證者違規時被扣除部分抵押,https://docs.rocketpool.net/en/protocol/faq
+testnet (Hoodi),測試網（Hoodi）,測試網（Hoodi）,測試網,测试网（Hoodi）,使用免費測試幣練習的網絡，資產沒有真實價值,https://docs.rocketpool.net/en/liquid-staking/via-rp
+token approval,代幣授權,代幣授權,授權,代币授权,允許合約動用你的代幣；應只授權必要額度,—
+seed phrase,助記詞,助記詞／種子短語,助記詞,助记词,還原錢包的一組字詞；任何人索取都是詐騙,—
